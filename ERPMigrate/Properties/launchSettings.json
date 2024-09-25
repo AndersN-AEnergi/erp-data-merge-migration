@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ERPMigrate": {
+      "commandName": "Project",
+      "commandLineArgs": "2 "
+    }
+  }
+}
